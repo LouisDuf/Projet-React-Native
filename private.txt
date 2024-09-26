@@ -1,0 +1,11 @@
+a97243d7813d31446f6c43284e6854d5
+
+https://api.themoviedb.org/3
+http://image.tmdb.org/t/p
+
+http://api.themoviedb.org/3/movie/550?api_key=a97243d7813d31446f6c43284e6854d5
+
+
+https://youtu.be/y_vwf15eADs?t=1147
+
+
